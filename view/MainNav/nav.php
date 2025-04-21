@@ -60,13 +60,6 @@
                     </li>
 
                     <li class="blue-dirty">
-                        <a href="..\MntPersona\">
-                            <span class="glyphicon glyphicon-th"></span>
-                            <span class="lbl">Persona</span>
-                        </a>
-                    </li>
-
-                    <li class="blue-dirty">
                         <a href="..\MntUsuario\">
                             <span class="glyphicon glyphicon-th"></span>
                             <span class="lbl">Usuario</span>
