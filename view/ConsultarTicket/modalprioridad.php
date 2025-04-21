@@ -15,7 +15,7 @@
                         <label class="form-label" for="prio_id">Prioridad</label>
                         <select class="select2" id="prio_id" name="prio_id" data-placeholder="Seleccionar" required>
 
-                        </select>
+                        </select> asdasd
                     </div>
 
                 </div>
