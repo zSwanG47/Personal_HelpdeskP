@@ -92,6 +92,17 @@ $(document).ready(function(){
     }
 });
 
+/* function asignarPrioridad(tick_id) {
+    $('#mdltitulo').html("Asignar Prioridad");
+    $('#tick_id').val(tick_id);
+
+    $.post("../../controller/prioridad.php?op=combo", function(data) {
+        $('#prio_id').html(data);
+    });
+
+    $('#modalprioridad').modal('show');
+} */
+
 /* TODO: Link para poder ver el detalle de ticket en otra ventana */
 $(document).on("click",".btn-inline",function(){
     const ciphertext = $(this).data("ciphertext");
