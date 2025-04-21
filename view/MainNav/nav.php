@@ -23,6 +23,21 @@
                             <span class="lbl">Consultar Ticket</span>
                         </a>
                     </li>
+                    <li class="blue-dirty with-sub">
+                        <span>
+                        <i class="glyphicon glyphicon-link"></i>
+                        <span class="lbl">Enlaces</span>
+                        </span>
+                        <ul>
+                            <li><a href="https://www.amazonexperience.net/?lang=es" target="_blank"><span class="lbl">Web Amazon Experience</span></a></li>
+                        </ul>
+                    </li>
+                    <li class="blue-dirty">
+                        <a href="..\ayuda\">
+                            <span class="glyphicon glyphicon-th"></span>
+                            <span class="lbl">Ayuda</span>
+                        </a>
+                    </li>
                 </ul>
             </nav>
         <?php
